@@ -7,7 +7,7 @@ import figmaIcon from "./images/icons/figma.png";
 import photoshopIcon from "./images/icons/photoshop.png";
 import illustratorIcon from "./images/icons/illustrator.png";
 import cppIcon from "./images/icons/cpp.png";
-import pythonIcon from "./images/icons/python.png";
+import reactIcon from "./images/icons/react.png";
 
 function About() {
 
@@ -20,7 +20,7 @@ function About() {
     { name: "Photoshop", image: photoshopIcon },
     { name: "Illustrator", image: illustratorIcon },
     { name: "C++", image: cppIcon },
-    { name: "Python", image: pythonIcon }
+    { name: "React", image: reactIcon }
 
   ];
 
