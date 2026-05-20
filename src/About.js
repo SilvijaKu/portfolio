@@ -39,7 +39,7 @@ function About() {
           </p>
 
           <p>
-            Kuriu svetaines naudodama <span>HTML, CSS, JavaScript ir Python</span>,
+            Kuriu svetaines naudodama <span>HTML, CSS, React, JavaScript ir PHP</span>,
             taip pat turiu pagrindus duomenų bazėse.
           </p>
 
